@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Habot_project_app/static/css/main.eb25500e.css",
+    "main.js": "/Habot_project_app/static/js/main.79ac71cc.js",
+    "static/js/453.00b6139e.chunk.js": "/Habot_project_app/static/js/453.00b6139e.chunk.js",
+    "static/media/Rectangle 1.svg": "/Habot_project_app/static/media/Rectangle 1.b7f38983d9441d1edecca82bdd1f50b9.svg",
+    "static/media/image 1.svg": "/Habot_project_app/static/media/image 1.75414ebe2e3ec8a17717327a603f419c.svg",
+    "static/media/Group 4.svg": "/Habot_project_app/static/media/Group 4.68a7052f3cd5d93faf4a84469d8eafba.svg",
+    "index.html": "/Habot_project_app/index.html",
+    "main.eb25500e.css.map": "/Habot_project_app/static/css/main.eb25500e.css.map",
+    "main.79ac71cc.js.map": "/Habot_project_app/static/js/main.79ac71cc.js.map",
+    "453.00b6139e.chunk.js.map": "/Habot_project_app/static/js/453.00b6139e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb25500e.css",
+    "static/js/main.79ac71cc.js"
+  ]
+}
